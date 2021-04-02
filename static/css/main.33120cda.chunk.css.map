@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.css","webpack://src/App.css"],"names":[],"mappings":"AAAA,EACI,QAAS,CACT,SAAU,CACV,qBACJ,CACA,aACI,YACJ,CCPA,KACE,sBACF","file":"main.33120cda.chunk.css","sourcesContent":["*{\n    margin: 0;\n    padding: 0;\n    box-sizing: border-box;\n}\nbutton:focus{\n    outline: none;\n}",".win {\n  background-color: green;\n}"]}
